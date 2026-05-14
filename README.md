@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy [Jose Luis Ruiz Alonzo] 👋</h1>
+<h1 align="center">Hola, soy Jose Luis Ruiz Alonzo 👋</h1>
 
 <p align="center">
   <b>Estudiante de Ingeniería en Sistemas Computacionales</b><br>
@@ -70,11 +70,6 @@ Me interesa especialmente el desarrollo **backend**, la arquitectura de sistemas
 
 > ⚠️ *Próximamente — actualmente construyendo mi portafolio de proyectos*
 
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| 🔧 Proyecto 1 | Descripción breve de lo que hace | Python, MySQL |
-| 🌐 Proyecto 2 | Descripción breve de lo que hace | React, Node.js |
-| 📊 Proyecto 3 | Descripción breve de lo que hace | PHP, SQL |
 
 ---
 
@@ -95,7 +90,7 @@ Estoy abierto a oportunidades de **prácticas profesionales**, colaboración en 
 
 <p align="center">
   <a href="mailto:tucorreo@gmail.com">📧 cheluisruiz8@gmail.com</a> &nbsp;|&nbsp;
-  <a href="[https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/jose-luis-ruiz-alonzo-53269b359)">💼 LinkedIn</a>
+  <a href="[linkedin.com/in/cheluis-ruiz)">💼 LinkedIn</a>
 </p>
 
 ---

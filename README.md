@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Jose Luis Ruiz Alonzo 👋</h1>
+<h1 align="center">Hola, soy [Tu Nombre] 👋</h1>
 
 <p align="center">
   <b>Estudiante de Ingeniería en Sistemas Computacionales</b><br>
@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:tucorreo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/tu-usuario"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:cheluisruiz8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/cheluis-ruiz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/joseluis-2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -23,6 +23,7 @@ Me interesa especialmente el desarrollo **backend**, la arquitectura de sistemas
 - 🎓 Ing. en Sistemas Computacionales — ITO
 - 🔍 Buscando **prácticas profesionales** para aplicar y ampliar mis conocimientos
 - 🌱 Actualmente aprendiendo: **Docker, APIs REST, arquitectura de microservicios**
+- 💬 Pregúntame sobre: Python, Java, PHP, bases de datos, desarrollo web
 
 ---
 
@@ -56,12 +57,12 @@ Me interesa especialmente el desarrollo **backend**, la arquitectura de sistemas
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true&locale=es" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=default&hide_border=true&locale=es" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joseluis-2&show_icons=true&theme=default&hide_border=true&locale=es" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluis-2&layout=compact&theme=default&hide_border=true&locale=es" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseluis-2&theme=default&hide_border=true&locale=es"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=default&hide_border=true&locale=es"/>
 </p>
 
 ---
@@ -89,14 +90,14 @@ Me interesa especialmente el desarrollo **backend**, la arquitectura de sistemas
 Estoy abierto a oportunidades de **prácticas profesionales**, colaboración en proyectos o simplemente conectar con otros desarrolladores.
 
 <p align="center">
-  <a href="mailto:tucorreo@gmail.com">📧 cheluisruiz8@gmail.com</a> &nbsp;|&nbsp;
-  <a href="[linkedin.com/in/cheluis-ruiz)">💼 LinkedIn</a>
+  <a href="mailto:cheluisruiz8@gmail.com">📧 cheluisruiz8@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/cheluis-ruiz">💼 LinkedIn</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas+al+perfil&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=joseluis-2&label=Visitas+al+perfil&color=0e75b6&style=flat"/>
 </p>
 
 <p align="center"><i>"El código es poesía — escríbelo con intención."</i></p>

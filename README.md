@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy [Tu Nombre] 👋</h1>
+<h1 align="center">Hola, soy Jose Luis Ruiz Alonzo 👋</h1>
 
 <p align="center">
   <b>Estudiante de Ingeniería en Sistemas Computacionales</b><br>
@@ -23,7 +23,6 @@ Me interesa especialmente el desarrollo **backend**, la arquitectura de sistemas
 - 🎓 Ing. en Sistemas Computacionales — ITO
 - 🔍 Buscando **prácticas profesionales** para aplicar y ampliar mis conocimientos
 - 🌱 Actualmente aprendiendo: **Docker, APIs REST, arquitectura de microservicios**
-- 💬 Pregúntame sobre: Python, Java, PHP, bases de datos, desarrollo web
 
 ---
 
